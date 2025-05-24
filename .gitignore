@@ -1,0 +1,11 @@
+# ai-portfolio-generator/.gitignore
+node_modules/
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+dist/
+build/
+.DS_Store
+*.log
